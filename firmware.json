@@ -2,9 +2,9 @@
     "id": 1,
     "name": "Pro-Kit Firmware",
     "stats": {
-        "firmwareVersion": v1.9.5,
-        "firmwareDate": 2022-09-21,
-        "firmwareDownload": N/A,
+        "firmwareVersion": 1.0,
+        "firmwareDate": 20220921,
+        "firmwareDownload": NA,
     },
     "dates": {
         "production_dates": {
