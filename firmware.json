@@ -4,7 +4,7 @@
     "stats": {
         "firmwareVersion": 1.0,
         "firmwareDate": 20220921,
-        "firmwareDownload": NA,
+        "firmwareDownload": 0,
     },
     "dates": {
         "production_dates": {
