@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "name": "Ferrari",
+    "stats": {
+        "firmwareVersion": v1.9.5,
+        "firmwareDate": 2022-09-21,
+        "firmwareDownload": N/A,
+    },
+    "dates": {
+        "production_dates": {
+            "start_date": "2020",
+            "end_date": "2022"
+        }
+    }
+}
